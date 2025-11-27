@@ -7,11 +7,11 @@ ruby '3.2.3'
 gem "rails", "~> 7.1.0"
 
 # Use Puma as the app server
-gem 'puma', '~> 6.0'
 gem "jwt"
 gem "mongoid", "~> 8.0"
 gem "mongo", "~> 2.20"
 gem 'bcrypt', '~> 3.1.7'
+gem "puma", "~> 6.4"
 
 
 # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder

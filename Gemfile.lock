@@ -174,7 +174,7 @@ GEM
     psych (5.2.6)
       date
       stringio
-    puma (6.4.2)
+    puma (6.6.1)
       nio4r (~> 2.0)
     racc (1.8.1)
     rack (3.2.4)
@@ -259,7 +259,7 @@ DEPENDENCIES
   listen (~> 3.3)
   mongo (~> 2.20)
   mongoid (~> 8.0)
-  puma (~> 6.0)
+  puma (~> 6.4)
   rails (~> 7.1.0)
   spring
   tzinfo-data
